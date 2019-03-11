@@ -190,10 +190,10 @@ q exits
 (Some characteristics that may help your description might be the length of the file, whether or not you'd like to read the whole thing... or just the beginning or end, etc.)
 ----------
 
-less - long file
-cat - short file, won't get lost in terminal
-head - beginning
-tail - end
+less -> long file
+cat -> short file, won't get lost in terminal
+head -> beginning
+tail -> end
 
 ==========
 21.  How many words are in pg1232.txt?  What command did you use to determine the word count?
